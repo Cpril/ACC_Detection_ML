@@ -15,4 +15,4 @@ This project is derived from an ongoing study on ACC and EEG Coherence by profes
 
 ![image](https://github.com/user-attachments/assets/74d0698d-0226-45e1-bd92-392e47d6f369)
 
-This project is still in progress.
+This project is still in progress. Technical Report will be shared once the project is complete and result reviewed for accuracy and interpretability. :)
